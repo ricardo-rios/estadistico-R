@@ -15,3 +15,6 @@ first_row = smartdudes.loc['Albert Einstein']
 print(type(first_row))
 print(first_row)
 
+print(first_row.index)
+print(first_row.values)
+print(first_row.keys())
