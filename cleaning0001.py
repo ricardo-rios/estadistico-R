@@ -46,4 +46,4 @@ df['Date of Publication'].dtype
 print(df['Date of Publication'])
 
 print(df['Date of Publication'].isnull().sum() / len(df)) 
-
+print(pd.__version__)
